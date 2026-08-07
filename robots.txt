@@ -1,0 +1,6 @@
+# Allow favicon access
+User-agent: Googlebot
+Allow: /logo.png
+
+User-agent: Googlebot-Image
+Allow: /logo.png
